@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrehman911&label=Profile%20views&color=1c8ace&style=plastic" alt="abdurrehman911" /> </p>
 
-- 🔭 I’m currently working on [something secret](https://getment.io/)
-
-- 🌱 I’m currently learning **agi**
-
-- 💬 Ask me about **software development**
 
 - 📫 How to reach me **abdurleo91@gmail.com**
 
